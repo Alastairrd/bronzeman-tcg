@@ -15734,7 +15734,7 @@
 							"type": "item"
 						},
 						{
-							"label": "Brutal arrows or Crumble Undead",
+							"label": "Brutal arrows or Crumble Undead (optional)",
 							"logic": "ANY",
 							"children": [
 								{
