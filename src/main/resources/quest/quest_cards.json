@@ -15720,6 +15720,20 @@
 							"type": "item"
 						},
 						{
+							"label": "Papyrus",
+							"cards": [
+								"Papyrus"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Empty cup",
+							"cards": [
+								"Empty cup"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Brutal arrows or Crumble Undead",
 							"logic": "ANY",
 							"children": [
@@ -15783,6 +15797,18 @@
 								"Zombie"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Zavistic Rarve",
+							"cards": [
+								"Zavistic Rarve"
+							],
+							"type": "npc"
 						}
 					]
 				}
