@@ -15188,6 +15188,25 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Surok Magis",
+							"cards": [
+								"Surok Magis"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Zaff",
+							"cards": [
+								"Zaff"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
