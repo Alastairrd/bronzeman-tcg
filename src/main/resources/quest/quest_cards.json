@@ -15056,23 +15056,11 @@
 						},
 						{
 							"label": "Guam potion (unf)",
-							"LOGIC": "ALL",
-							"children": [
-								{
-									"label": "Guam leaf",
-									"cards": [
-										"Guam leaf"
-									],
-									"type": "item"
-								},
-								{
-									"label": "Vial of water",
-									"cards": [
-										"Vial of water"
-									],
-									"type": "item"
-								}
-							]
+							"cards": [
+								"Guam leaf",
+								"Vial of water"
+							],
+							"type": "item"
 						}
 					]
 				},
