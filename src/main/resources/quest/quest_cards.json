@@ -15610,6 +15610,81 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Ivy Sophista",
+							"cards": [
+								"Ivy Sophista"
+							],
+							"type": "npc"
+						}, 
+						{
+							"label": "Hunting expert",
+							"cards": [
+								"Hunting expert"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Idria",
+							"cards": [
+								"Idria"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Akrisae",
+							"cards": [
+								"Akrisae"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Turael",
+							"cards": [
+								"Turael"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Mazchna",
+							"cards": [
+								"Mazchna"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Duradel",
+							"cards": [
+								"Duradel"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Cyrisus",
+							"cards": [
+								"Cyrisus"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Ghommal",
+							"cards": [
+								"Ghommal"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Sloane",
+							"cards": [
+								"Sloane"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
