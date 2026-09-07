@@ -855,54 +855,6 @@
 			"notes": "Toy mouse — Card required: Item is used mid-quest"
 		},
 		{
-			"name": "Barbarian Training - Fishing",
-			"miniquest": true,
-			"sections": [
-				{
-					"label": "Items",
-					"requirements": [
-						{
-							"label": "Perl Barbarian Rod (optional)",
-							"cards": [
-								"Perl barbarian rod"
-							],
-							"type": "item"
-						},
-						{
-							"label": "Knife (optional)",
-							"cards": [
-								"knife"
-							],
-							"type": "item"
-						},
-						{
-							"label": "bait / feathers / offcuts / roe / caviar",
-							"cards": [
-								"Feather",
-								"Roe",
-								"Caviar",
-								"Fishing bait",
-								"Fish offcuts"
-							],
-							"type": "item"
-						}
-					]
-				},
-				{
-					"label": "NPCs",
-					"requirements": [
-						{
-							"label": "Otto Godblessed",
-							"cards": [
-								"Otto godblessed"
-							],
-							"type": "npc"
-						}
-					]
-				}
-			]
-		},
-		{
 			"name": "Barbarian Training",
 			"miniquest": true,
 			"sections": [

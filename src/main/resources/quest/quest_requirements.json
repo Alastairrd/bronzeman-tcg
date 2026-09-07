@@ -206,25 +206,6 @@
 			]
 		},
 		{
-			"name": "Barbarian Training - Fishing",
-			"runeliteQuest": "BARBARIAN_TRAINING",
-			"skills": [
-				{
-					"skill": "FISHING",
-					"level": 55
-				},
-				{
-					"skill": "AGILITY",
-					"lavel": 15
-				},
-				{
-					"skill": "STRENGTH",
-					"level": 35
-				}
-			],
-			"quests": []
-		},
-		{
 			"name": "Barbarian Training",
 			"runeliteQuest": "BARBARIAN_TRAINING",
 			"skills": [
