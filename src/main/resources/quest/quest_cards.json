@@ -15023,20 +15023,6 @@
 							"type": "item"
 						},
 						{
-							"label": "Ogre shaman",
-							"cards": [
-								"Ogre shaman"
-							],
-							"type": "enemy"
-						},
-						{
-							"label": "Enclave guard",
-							"cards": [
-								"Enclave guard"
-							],
-							"type": "enemy"
-						},
-						{
 							"label": "Any light source",
 							"cards": [
 								"Abyssal lantern",
@@ -15070,10 +15056,23 @@
 						},
 						{
 							"label": "Guam potion (unf)",
-							"cards": [
-								"Guam leaf"
-							],
-							"type": "item"
+							"LOGIC": "ALL",
+							"children": [
+								{
+									"label": "Guam leaf",
+									"cards": [
+										"Guam leaf"
+									],
+									"type": "item"
+								},
+								{
+									"label": "Vial of water",
+									"cards": [
+										"Vial of water"
+									],
+									"type": "item"
+								}
+							]
 						}
 					]
 				},
@@ -15093,6 +15092,39 @@
 								"Giant bat"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Gorad",
+							"cards": [
+								"Gorad"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "City guard",
+							"cards": [
+								"City guard"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Enclave guard",
+							"cards": [
+								"Enclave guard"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Ogre shaman",
+							"cards": [
+								"Ogre shaman"
+							],
+							"type": "npc"
 						}
 					]
 				}
