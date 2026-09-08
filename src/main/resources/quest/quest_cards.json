@@ -15349,13 +15349,6 @@
 								"Torch"
 							],
 							"type": "item"
-						},
-						{
-							"label": "A rope",
-							"cards": [
-								"Rope"
-							],
-							"type": "item"
 						}
 					]
 				},
@@ -15368,6 +15361,32 @@
 								"Black Knight"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Sir Tiffy Cashien",
+							"cards": [
+								"Sir Tiffy Cashien"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Sir Amik Varze",
+							"cards": [
+								"Sir Amik Varze"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Lord Daquarius",
+							"cards": [
+								"Lord Daquarius"
+							],
+							"type": "npc"
 						}
 					]
 				}
