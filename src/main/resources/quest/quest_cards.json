@@ -14765,6 +14765,18 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "King Bolren",
+							"cards": [
+								"King Bolren"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
