@@ -14850,9 +14850,9 @@
 					"label": "Items",
 					"requirements": [
 						{
-							"label": "Coins",
+							"label": "Climbing boots",
 							"cards": [
-								"Coins"
+								"Climbing boots"
 							],
 							"type": "item"
 						}
@@ -14888,6 +14888,18 @@
 								"Twig"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Denulth",
+							"cards": [
+								"Denulth"
+							],
+							"type": "npc"
 						}
 					]
 				}
