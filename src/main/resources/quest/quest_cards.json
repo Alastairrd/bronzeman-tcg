@@ -14923,6 +14923,13 @@
 							"type": "item"
 						},
 						{
+							"label": "Seaweed",
+							"cards": [
+								"Seaweed"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Any axe",
 							"cards": [
 								"Crystal axe",
@@ -14957,6 +14964,18 @@
 								"Shellbane gryphon"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Floopa",
+							"cards": [
+								"Floopa"
+							],
+							"type": "npc"
 						}
 					]
 				}
