@@ -14997,6 +14997,40 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Prince Itzla Arkan",
+							"cards": [
+								"Prince Itzla Arkan"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Augur Metzli",
+							"cards": [
+								"Augur Metzli"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Renu",
+							"cards": [
+								"Renu"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Ennius or Furia",
+							"cards": [
+								"Ennius Tullus",
+								"Furia Tullus"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
