@@ -15044,6 +15044,13 @@
 							"type": "item"
 						},
 						{
+							"label": "Unicorn horn",
+							"cards": [
+								"Unicorn horn"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Arrows (unpoisoned) and fire arrows",
 							"logic": "ANY",
 							"children": [
@@ -15059,8 +15066,7 @@
 									"label": "Iron arrow/fire",
 									"logic": "ALL",
 									"cards": [
-										"Iron arrow",
-										"Steel arrow"
+										"Iron arrow"
 									],
 									"type": "item"
 								},
@@ -15076,8 +15082,7 @@
 									"label": "Mithril arrow/fire",
 									"logic": "ALL",
 									"cards": [
-										"Mithril arrow",
-										"Steel arrow"
+										"Mithril arrow"
 									],
 									"type": "item"
 								},
@@ -15093,8 +15098,7 @@
 									"label": "Rune arrow/fire",
 									"logic": "ALL",
 									"cards": [
-										"Rune arrow",
-										"Steel arrow"
+										"Rune arrow"
 									],
 									"type": "item"
 								},
@@ -15133,6 +15137,20 @@
 								"Longbow"
 							],
 							"type": "item"
+						},
+						{
+							"label": "Zamorak monk top",
+							"cards": [
+								"Zamorak monk top"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Zamorak monk bottom",
+							"cards": [
+								"Zamorak monk bottom"
+							],
+							"type": "item"
 						}
 					]
 				},
@@ -15161,9 +15179,25 @@
 							"type": "enemy"
 						},
 						{
-							"label": "Paladin",
+							"label": "Sir Carl",
 							"cards": [
-								"Paladin"
+								"Sir Carl"
+							],
+							"type": "enemy"
+						},
+						,
+						{
+							"label": "Sir Jerro",
+							"cards": [
+								"Sir Jerro"
+							],
+							"type": "enemy"
+						},
+						,
+						{
+							"label": "Sir Harry",
+							"cards": [
+								"Sir Harry"
 							],
 							"type": "enemy"
 						},
@@ -15180,6 +15214,25 @@
 								"Disciple of Iban"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "King Lathas",
+							"cards": [
+								"King Lathas"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Unicorn (optional)",
+							"cards": [
+								"Unicorn"
+							],
+							"type": "npc"
 						}
 					]
 				}
