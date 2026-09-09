@@ -14734,6 +14734,18 @@
 							"type": "item"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Homunculus",
+							"cards": [
+								"Homunculus"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
