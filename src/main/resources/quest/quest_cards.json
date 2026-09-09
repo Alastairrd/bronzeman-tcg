@@ -14517,9 +14517,11 @@
 					"label": "Items",
 					"requirements": [
 						{
-							"label": "Coins (to buy Shantay Passes)",
+							"label": "Desert Access",
 							"cards": [
-								"Coins"
+								"Coins",
+								"Necklace of Passage",
+								"Dramen staff"
 							],
 							"type": "item"
 						},
@@ -14564,6 +14566,13 @@
 								"Feather"
 							],
 							"type": "item"
+						},
+						{
+							"label": "Ana in a barrel",
+							"cards": [
+								"Ana in a barrel"
+							],
+							"type": "item"
 						}
 					]
 				},
@@ -14576,6 +14585,18 @@
 								"Mercenary Captain"
 							],
 							"type": "enemy"
+						}
+					]
+				}, 
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Guard",
+							"cards": [
+								"Guard"
+							],
+							"type": "npc"
 						}
 					]
 				}
