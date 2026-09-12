@@ -14704,27 +14704,30 @@
 								"Chocolate cake"
 							],
 							"type": "item"
+						}
+					]
+				}, 
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "King Vargas",
+							"cards": [
+								"King Vargas"
+							],
+							"type": "npc"
 						},
 						{
-							"label": "Any normal/oak/willow/maple/yew shortbow or longbow (if courting Astrid)",
+							"label": "Queen Sigrid",
 							"cards": [
-								"Shortbow",
-								"Longbow",
-								"Oak shortbow",
-								"Oak longbow",
-								"Willow shortbow",
-								"Willow longbow",
-								"Maple shortbow",
-								"Maple longbow",
-								"Yew shortbow",
-								"Yew longbow"
+								"Queen Sigrid"
 							],
-							"type": "item"
+							"type": "npc"
 						}
 					]
 				}
 			],
-			"notes": ""
+			"notes": "Jester row emotes can be used to court Astrid without flowers or a bow."
 		},
 		{
 			"name": "Tower of Life",
