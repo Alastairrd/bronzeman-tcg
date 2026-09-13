@@ -12241,13 +12241,6 @@
 							"type": "item"
 						},
 						{
-							"label": "Rope",
-							"cards": [
-								"Rope"
-							],
-							"type": "item"
-						},
-						{
 							"label": "Tinderbox",
 							"cards": [
 								"Tinderbox"
@@ -12291,6 +12284,18 @@
 								}
 							],
 							"displayCardsOnly": true
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Juna",
+							"cards": [
+								"Juna"
+							],
+							"type": "npc"
 						}
 					]
 				}
