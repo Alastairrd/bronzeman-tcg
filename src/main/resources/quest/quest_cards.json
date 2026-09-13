@@ -12438,6 +12438,32 @@
 							"type": "item"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Archmage Sedridor",
+							"cards": [
+								"Archmage Sedridor"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Wizard Traiborn",
+							"cards": [
+								"Wizard Traiborn"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "The Great Guardian",
+							"cards": [
+								"The Great Guardian"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
