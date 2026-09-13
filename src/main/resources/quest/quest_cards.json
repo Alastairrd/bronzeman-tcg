@@ -12312,26 +12312,98 @@
 							"type": "item"
 						},
 						{
-							"label": "Any light source to get the boots of lightness",
-							"cards": [
-								"Abyssal lantern",
-								"Bruma torch",
-								"Bullseye lantern",
-								"Candle lantern",
-								"Candle",
-								"Mining helmet",
-								"Oil lamp",
-								"Oil lantern",
-								"Torch"
-							],
-							"type": "item"
-						},
-						{
-							"label": "Knife to get the boots of lightness",
-							"cards": [
-								"Knife"
-							],
-							"type": "item"
+							"label": "Weight-reducing clothing",
+							"LOGIC": "ANY",
+							"children": [
+								{
+									"label": "Boots of lightness method",
+									"LOGIC": "ALL",
+									"children": [
+										{
+											"label": "Boots of lightness",
+											"cards": [
+												"Boots of lightness"
+											],
+											"type": "item"
+										},
+										{
+											"label": "A knife or slash weapon",
+											"logic": "ANY",
+											"children": [
+												{
+													"label": "Knife",
+													"cards": [
+														"Knife"
+													],
+													"type": "item"
+												},
+												{
+													"label": "Slash weapon",
+													"cards": [
+														"Dragon scimitar",
+														"Rune scimitar",
+														"Adamant scimitar",
+														"Mithril scimitar",
+														"Steel scimitar",
+														"Iron scimitar",
+														"Bronze scimitar",
+														"Dragon longsword",
+														"Rune longsword",
+														"Adamant longsword",
+														"Mithril longsword",
+														"Steel longsword",
+														"Iron longsword",
+														"Bronze longsword",
+														"Bronze sword",
+														"Iron sword",
+														"Steel sword",
+														"Mithril sword",
+														"Adamant sword",
+														"Rune sword",
+														"Dragon sword"
+													],
+													"type": "item"
+												}
+											]
+										},
+										{
+											"label": "Any light source",
+											"cards": [
+												"Abyssal lantern",
+												"Bruma torch",
+												"Bullseye lantern",
+												"Candle lantern",
+												"Candle",
+												"Mining helmet",
+												"Oil lamp",
+												"Oil lantern",
+												"Torch"
+											],
+											"type": "item"
+										}
+									]
+								},
+								{
+									"label": "Other weight-reducing clothing",
+									"cards": [
+										"Graceful hood",
+										"Graceful top",
+										"Graceful legs",
+										"Graceful gloves",
+										"Graceful boots",
+										"Spotted cape",
+										"Spottier cape",
+										"Penance gloves",
+										"Polar camo top",
+										"Polar camo legs",
+										"Wood camo top",
+										"Wood camo legs",
+										"Desert camo top",
+										"Desert camo legs"
+									],
+									"type": "item"
+								}
+							]
 						},
 						{
 							"label": "Yew+ bow or throwable weapon",
