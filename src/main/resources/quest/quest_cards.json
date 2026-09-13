@@ -12037,9 +12037,16 @@
 							"type": "item"
 						},
 						{
-							"label": "Sliced banana",
+							"label": "Banana",
 							"cards": [
-								"Sliced banana"
+								"Banana"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Karamjan rum",
+							"cards": [
+								"Karamjan rum"
 							],
 							"type": "item"
 						},
@@ -12069,13 +12076,6 @@
 								"Mahogany logs",
 								"Yew logs",
 								"Magic logs"
-							],
-							"type": "item"
-						},
-						{
-							"label": "Cooked karambwan",
-							"cards": [
-								"Cooked karambwan"
 							],
 							"type": "item"
 						},
@@ -12130,6 +12130,34 @@
 							"label": "Raw karambwan",
 							"cards": [
 								"Raw karambwan"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Cooked karambwan",
+							"cards": [
+								"Cooked karambwan"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Raw karambwanji",
+							"cards": [
+								"Raw karambwanji"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Karambwan vessel",
+							"cards": [
+								"Karambwan vessel"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Monkey corpse",
+							"cards": [
+								"Monkey corpse"
 							],
 							"type": "item"
 						}
