@@ -528,12 +528,47 @@
 							"type": "item"
 						},
 						{
-							"label": "Any robe",
+							"label": "Desert robe / druid robe",
 							"cards": [
 								"Desert robe",
 								"Druid's robe"
 							],
 							"type": "item"
+						},
+						{
+							"label": "Desert Access",
+							"cards": [
+								"Coins",
+								"Necklace of Passage",
+								"Dramen staff"
+							],
+							"type": "item"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Bob",
+							"cards": [
+								"Bob"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Gertrude",
+							"cards": [
+								"Gertrude"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Reldo",
+							"cards": [
+								"Reldo"
+							],
+							"type": "npc"
 						}
 					]
 				}
