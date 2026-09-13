@@ -11731,6 +11731,16 @@
 					"label": "Items",
 					"requirements": [
 						{
+							"label": "Desert Access",
+							"cards": [
+								"Coins",
+								"Necklace of Passage",
+								"Dramen staff",
+								"Lunar staff"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Needle",
 							"cards": [
 								"Needle"
@@ -11859,17 +11869,15 @@
 											]
 										},
 										{
-											"label": "Any elemental rune",
+											"label": "Air rune/Air staff",
 											"cards": [
 												"Air rune",
-												"Water rune",
-												"Earth rune",
-												"Fire rune",
-												"Mist rune",
-												"Dust rune",
-												"Mud rune",
-												"Smoke rune",
-												"Lava rune"
+												"Staff of air",
+												"Air battlestaff",
+												"Mystic air staff",
+												"Smoke battlestaff",
+												"Mist battlestaff",
+												"Dust battlestaff"
 											]
 										}
 									]
@@ -11903,9 +11911,21 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Genie",
+							"cards": [
+								"Genie"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
-			"notes": ""
+			"notes": "Nardah teleport scrolls can also be used to reach the Desert."
 		},
 		{
 			"name": "Swan Song",
