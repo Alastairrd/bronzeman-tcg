@@ -562,6 +562,20 @@
 							"type": "item"
 						},
 						{
+							"label": "Silver sickle",
+							"cards": [
+								"Silver sickle"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Chain",
+							"cards": [
+								"Chain"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Emerald",
 							"cards": [
 								"Emerald"
@@ -586,6 +600,20 @@
 							"label": "Vial of water",
 							"cards": [
 								"Vial of water"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Potion",
+							"cards": [
+								"Potion"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Vial of blood",
+							"cards": [
+								"Vial of blood"
 							],
 							"type": "item"
 						},
@@ -661,6 +689,25 @@
 								"Vyrewatch"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Safalaan Hallow",
+							"cards": [
+								"Safalaan Hallow"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Vertida Sefalatis",
+							"cards": [
+								"Vertida Sefalatis"
+							],
+							"type": "npc"
 						}
 					]
 				}
