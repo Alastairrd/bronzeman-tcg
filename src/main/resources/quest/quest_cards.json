@@ -540,7 +540,8 @@
 							"cards": [
 								"Coins",
 								"Necklace of Passage",
-								"Dramen staff"
+								"Dramen staff",
+								"Lunar staff"
 							],
 							"type": "item"
 						}
@@ -11914,6 +11915,16 @@
 					"label": "Items",
 					"requirements": [
 						{
+							"label": "Piscatoris Access",
+							"cards": [
+								"Coins",
+								"Ring of Charos",
+								"Dramen staff",
+								"Lunar staff"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Mist rune",
 							"cards": [
 								"Mist rune"
@@ -12018,9 +12029,28 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Wise Old Man",
+							"cards": [
+								"Wise Old Man"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Master Crafter",
+							"cards": [
+								"Master Crafter"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
-			"notes": ""
+			"notes": "Piscatoris teleport scrolls can also be used to access Piscatoris."
 		},
 		{
 			"name": "Tai Bwo Wannai Trio",
@@ -14671,7 +14701,8 @@
 							"cards": [
 								"Coins",
 								"Necklace of Passage",
-								"Dramen staff"
+								"Dramen staff",
+								"Lunar staff"
 							],
 							"type": "item"
 						},
