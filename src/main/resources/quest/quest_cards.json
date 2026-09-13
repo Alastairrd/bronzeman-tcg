@@ -367,29 +367,11 @@
 					"label": "Enemies",
 					"requirements": [
 						{
-							"label": "Angry unicorn",
+							"label": "Any angry creature",
 							"cards": [
-								"Angry unicorn"
-							],
-							"type": "enemy"
-						},
-						{
-							"label": "Angry bear",
-							"cards": [
-								"Angry bear"
-							],
-							"type": "enemy"
-						},
-						{
-							"label": "Angry giant rat",
-							"cards": [
-								"Angry giant rat"
-							],
-							"type": "enemy"
-						},
-						{
-							"label": "Angry goblin",
-							"cards": [
+								"Angry unicorn",
+								"Angry bear",
+								"Angry giant rat",
 								"Angry goblin"
 							],
 							"type": "enemy"
