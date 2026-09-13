@@ -12161,17 +12161,15 @@
 									]
 								},
 								{
-									"label": "Any elemental rune",
+									"label": "Air rune/Air staff",
 									"cards": [
 										"Air rune",
-										"Water rune",
-										"Earth rune",
-										"Fire rune",
-										"Mist rune",
-										"Dust rune",
-										"Mud rune",
-										"Smoke rune",
-										"Lava rune"
+										"Staff of air",
+										"Air battlestaff",
+										"Mystic air staff",
+										"Smoke battlestaff",
+										"Mist battlestaff",
+										"Dust battlestaff"
 									]
 								}
 							]
@@ -12269,9 +12267,21 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Lord Shiro Shayzien",
+							"cards": [
+								"Lord Shiro Shayzien"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
-			"notes": ""
+			"notes": "Salamanders can be used as an option for all 3 combat styles."
 		},
 		{
 			"name": "Tears of Guthix",
