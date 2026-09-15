@@ -11109,44 +11109,29 @@
 							"type": "item"
 						},
 						{
-							"label": "Vyrewatch outfit or Coins",
-							"logic": "ANY",
-							"children": [
-								{
-									"label": "Vyrewatch outfit",
-									"logic": "ALL",
-									"children": [
-										{
-											"label": "Vyrewatch top",
-											"cards": [
-												"Vyrewatch top"
-											],
-											"type": "item"
-										},
-										{
-											"label": "Vyrewatch legs",
-											"cards": [
-												"Vyrewatch legs"
-											],
-											"type": "item"
-										},
-										{
-											"label": "Vyrewatch shoes",
-											"cards": [
-												"Vyrewatch shoes"
-											],
-											"type": "item"
-										}
-									]
-								},
-								{
-									"label": "Coins",
-									"cards": [
-										"Coins"
-									],
-									"type": "item"
-								}
-							]
+							"label": "Silver sickle",
+							"cards": [
+								"Silver sickle"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Vyrewatch outfit",
+							"cards": [
+								"Vyrewatch top",
+								"Vyrewatch legs",
+								"Vyrewatch shoes"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Vyre noble outfit",
+							"cards": [
+								"Vyre noble top",
+								"Vyre noble legs",
+								"Vyre noble shoes"
+							],
+							"type": "item"
 						},
 						{
 							"label": "Enchant Ruby Runes/Tablet",
@@ -11196,8 +11181,9 @@
 							]
 						},
 						{
-							"label": "Any axe",
+							"label": "Hammer or any axe",
 							"cards": [
+								"Hammer",
 								"Crystal axe",
 								"3rd age axe",
 								"Dragon axe",
@@ -11209,6 +11195,44 @@
 								"Steel axe",
 								"Iron axe",
 								"Bronze axe"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Any pickaxe",
+							"cards": [
+								"Crystal pickaxe",
+								"3rd age pickaxe",
+								"Dragon pickaxe",
+								"Rune pickaxe",
+								"Gilded pickaxe",
+								"Adamant pickaxe",
+								"Mithril pickaxe",
+								"Black pickaxe",
+								"Steel pickaxe",
+								"Iron pickaxe",
+								"Bronze pickaxe"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Daeyalt ore",
+							"cards": [
+								"Daeyalt ore"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Blisterwood logs",
+							"cards": [
+								"Blisterwood logs"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Blisterwood flail",
+							"cards": [
+								"Blisterwood flail"
 							],
 							"type": "item"
 						}
@@ -11246,6 +11270,13 @@
 							"type": "enemy"
 						},
 						{
+							"label": "Acidic Bloodveld (optional)",
+							"cards": [
+								"Acidic Bloodveld"
+							],
+							"type": "enemy"
+						},
+						{
 							"label": "Damien Leucurte",
 							"cards": [
 								"Damien Leucurte"
@@ -11265,6 +11296,53 @@
 								"Vanstrom Klause"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Veliaf Hurtz",
+							"cards": [
+								"Veliaf Hurtz"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Vertida Sefalatis",
+							"cards": [
+								"Vertida Sefalatis"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Drezel",
+							"cards": [
+								"Drezel"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Vyrewatch",
+							"cards": [
+								"Vyrewatch"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Safalaan Hallow",
+							"cards": [
+								"Safalaan Hallow"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Vanescula Drakan",
+							"cards": [
+								"Vanescula Drakan"
+							],
+							"type": "npc"
 						}
 					]
 				}
