@@ -14735,6 +14735,18 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Sir Tiffy Cashien",
+							"cards": [
+								"Sir Tiffy Cashien"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
