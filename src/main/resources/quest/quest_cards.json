@@ -11699,6 +11699,54 @@
 								"Fragment of Seren"
 							],
 							"type": "enemy"
+						},
+						{
+							"label": "Barricade Fight",
+							"cards": [
+								"Elf Warrior",
+								"Elf Archer"
+							],
+							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "King Lathas",
+							"cards": [
+								"Arianwyn"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Elena",
+							"cards": [
+								"Elena"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Baxtorian",
+							"cards": [
+								"Baxtorian"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Eluned",
+							"cards": [
+								"Eluned"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Mysterious Figure",
+							"cards": [
+								"Mysterious Figure"
+							],
+							"type": "npc"
 						}
 					]
 				}
