@@ -11376,7 +11376,8 @@
 						{
 							"label": "Bucket of water or ice gloves",
 							"cards": [
-								"Bucket of water"
+								"Bucket of water",
+								"Ice gloves"
 							]
 						},
 						{
@@ -11391,6 +11392,58 @@
 								"Rune nails"
 							],
 							"type": "item"
+						},
+						{
+							"label": "Any bronze items",
+							"cards": [
+								"Bronze bar",
+								"Bronze platebody",
+								"Bronze platelegs",
+								"Bronze plateskirt",
+								"Bronze full helm",
+								"Bronze kiteshield",
+								"Bronze chainbody",
+								"Bronze sq sield",
+								"Bronze scimitar",
+								"Bronze longsword",
+								"Bronze claws",
+								"Bronze warhammer",
+								"Bronze battleaxe",
+								"Bronze 2h sword"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Any iron items",
+							"cards": [
+								"Iron bar",
+								"Iron platebody",
+								"Iron platelegs",
+								"Iron plateskirt",
+								"Iron full helm",
+								"Iron kiteshield",
+								"Iron chainbody",
+								"Iron sq sield",
+								"Iron scimitar",
+								"Iron longsword",
+								"Iron claws",
+								"Iron warhammer",
+								"Iron battleaxe",
+								"Iron 2h sword"
+							],
+							"type": "item"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Kovac",
+							"cards": [
+								"Kovac"
+							],
+							"type": "npc"
 						}
 					]
 				}
