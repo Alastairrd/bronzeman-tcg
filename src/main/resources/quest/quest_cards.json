@@ -10443,6 +10443,25 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "King Vargas",
+							"cards": [
+								"King Vargas"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Queen Sigrid",
+							"cards": [
+								"Queen Sigrid"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
