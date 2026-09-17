@@ -348,6 +348,65 @@
 			"notes": ""
 		},
 		{
+			"name": "A Ruff Situation",
+			"miniquest": false,
+			"sections": [
+				{
+					"label": "Items",
+					"requirements": [
+						{
+							"label": "Grain",
+							"cards": [
+								"Grain"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Needle",
+							"cards": [
+								"Needle",
+								"Costume needle"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Thread",
+							"cards": [
+								"Thread",
+								"Costume needle"
+							],
+							"type": "item"
+						}
+					]
+				},
+				{
+					"label": "Enemies",
+					"requirements": [
+						{
+							"label": "Outlaw",
+							"cards": [
+								"Outlaw"
+							],
+							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Gertrude",
+							"cards": [
+								"Gertrude"
+							],
+							"type": "npc"
+						}
+					]
+				}
+			],
+			"notes": ""
+		},
+		{
 			"name": "A Soul's Bane",
 			"miniquest": false,
 			"sections": [
