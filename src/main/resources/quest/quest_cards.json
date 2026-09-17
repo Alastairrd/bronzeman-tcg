@@ -10512,11 +10512,23 @@
 					"label": "Enemies",
 					"requirements": [
 						{
-							"label": "Jailer",
+							"label": "Jailer or 70 Agility",
 							"cards": [
 								"Jailer"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Seer",
+							"cards": [
+								"Seer"
+							],
+							"type": "npc"
 						}
 					]
 				}
@@ -10534,6 +10546,20 @@
 							"label": "Bowl of water",
 							"cards": [
 								"Bowl of water"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Damiana tea",
+							"cards": [
+								"Damiana tea"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Empty cup",
+							"cards": [
+								"Empty cup"
 							],
 							"type": "item"
 						},
@@ -10596,6 +10622,18 @@
 								"Red dragon"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Humphrey Dumphrey",
+							"cards": [
+								"Humphrey Dumphrey"
+							],
+							"type": "npc"
 						}
 					]
 				}
