@@ -10683,6 +10683,47 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Guard",
+							"cards": [
+								"Guard"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Hazeel",
+							"cards": [
+								"Hazeel"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Alomone or Clivet",
+							"cards": [
+								"Alomone",
+								"Clivet"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "General Khazard",
+							"cards": [
+								"General Khazard"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Jhallan",
+							"cards": [
+								"Jhallan"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
