@@ -10768,6 +10768,16 @@
 					"label": "Items",
 					"requirements": [
 						{
+							"label": "Desert Access",
+							"cards": [
+								"Coins",
+								"Necklace of Passage",
+								"Dramen staff",
+								"Lunar staff"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Silver bar",
 							"cards": [
 								"Silver bar"
@@ -10797,9 +10807,9 @@
 							"type": "item"
 						},
 						{
-							"label": "Coins (for buying Shantay passes)",
+							"label": "Darklight",
 							"cards": [
-								"Coins"
+								"Darklight"
 							],
 							"type": "item"
 						}
@@ -10816,9 +10826,28 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Evil Dave",
+							"cards": [
+								"Evil Dave"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Clay golem",
+							"cards": [
+								"Clay golem"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
-			"notes": "Black desert robes, black priest outfit, dark mystic, ghostly robes, black wizard robes, black Christmas pieces, and dark dye Graceful pieces count"
+			"notes": "Black desert robes, black priest outfit, dark mystic, ghostly robes, black wizard robes, black Christmas pieces, and dark dye Graceful pieces count. Nardah teleport scrolls can also be used to reach the Desert."
 		},
 		{
 			"name": "Shadows of Custodia",
