@@ -10861,13 +10861,6 @@
 					"label": "Enemies",
 					"requirements": [
 						{
-							"label": "Phantom Muspah",
-							"cards": [
-								"Phantom Muspah"
-							],
-							"type": "enemy"
-						},
-						{
 							"label": "Juvenile custodian stalker",
 							"cards": [
 								"Juvenile custodian stalker"
