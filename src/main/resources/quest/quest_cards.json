@@ -10723,7 +10723,14 @@
 							"type": "item"
 						},
 						{
-							"label": "A log whose pyre version you can burn",
+							"label": "Sacred Oil",
+							"cards": [
+								"Sacred Oil"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Pyre logs",
 							"cards": [
 								"Logs",
 								"Oak logs",
@@ -10736,10 +10743,31 @@
 							"type": "item"
 						},
 						{
-							"label": "Hammer or Flamtaer Hammer",
+							"label": "Hammer or Flamtaer hammer",
 							"cards": [
 								"Hammer",
-								"Flamtaer hammer"
+								"Flamtaer hammer"								
+							],
+							"type": "item"
+						},
+						{
+							"label": "Limestone brick",
+							"cards": [
+								"Limestone brick"								
+							],
+							"type": "item"
+						},
+						{
+							"label": "Swamp paste",
+							"cards": [
+								"Swamp paste"
+							]
+						},
+						{
+							"label": "Loar remains",
+							"cards": [
+								"Shade remains"
+								
 							],
 							"type": "item"
 						}
@@ -10754,6 +10782,18 @@
 								"Loar Shade"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Afflicted",
+							"cards": [
+								"Afflicted"
+							],
+							"type": "npc"
 						}
 					]
 				}
