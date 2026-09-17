@@ -10417,9 +10417,9 @@
 							"type": "item"
 						},
 						{
-							"label": "Slayer gloves",
+							"label": "Holy wrench",
 							"cards": [
-								"Slayer gloves"
+								"Holy wrench"
 							],
 							"type": "item"
 						}
@@ -10441,6 +10441,18 @@
 								"Fever spider"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Pirate Pete",
+							"cards": [
+								"Pirate Pete"
+							],
+							"type": "npc"
 						}
 					]
 				}
