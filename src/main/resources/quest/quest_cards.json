@@ -10398,6 +10398,18 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Eluned",
+							"cards": [
+								"Eluned"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
