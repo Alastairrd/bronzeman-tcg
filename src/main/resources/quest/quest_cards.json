@@ -10157,6 +10157,14 @@
 							],
 							"type": "item"
 						},
+						,
+						{
+							"label": "Plank",
+							"cards": [
+								"Plank"
+							],
+							"type": "item"
+						},
 						{
 							"label": "Limestone",
 							"cards": [
@@ -10165,9 +10173,9 @@
 							"type": "item"
 						},
 						{
-							"label": "Limestone brick",
+							"label": "Ball of wool",
 							"cards": [
-								"Limestone brick"
+								"Ball of wool"
 							],
 							"type": "item"
 						},
@@ -10216,8 +10224,7 @@
 									"label": "Iron arrow/fire",
 									"logic": "ALL",
 									"cards": [
-										"Iron arrow",
-										"Steel arrow"
+										"Iron arrow"
 									],
 									"type": "item"
 								},
@@ -10233,8 +10240,7 @@
 									"label": "Mithril arrow/fire",
 									"logic": "ALL",
 									"cards": [
-										"Mithril arrow",
-										"Steel arrow"
+										"Mithril arrow"
 									],
 									"type": "item"
 								},
@@ -10250,8 +10256,7 @@
 									"label": "Rune arrow/fire",
 									"logic": "ALL",
 									"cards": [
-										"Rune arrow",
-										"Steel arrow"
+										"Rune arrow"
 									],
 									"type": "item"
 								},
@@ -10327,7 +10332,27 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "King Lathas",
+							"cards": [
+								"King Lathas"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Lord Iorwerth",
+							"cards": [
+								"Lord Iorwerth"
+							],
+							"type": "npc"
+						}
+					]
 				}
+
 			],
 			"notes": ""
 		},
