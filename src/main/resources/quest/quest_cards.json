@@ -10115,6 +10115,26 @@
 			"miniquest": false,
 			"sections": [
 				{
+					"label": "Items",
+					"requirements": [
+						{
+							"label": "Grain",
+							"cards": [
+								"Grain"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Method to get Key",
+							"cards": [
+								"Bronze wire",
+								"Knife",
+								"Chisel"
+							]
+						}
+					]
+				},
+				{
 					"label": "Enemies",
 					"requirements": [
 						{
@@ -10123,6 +10143,25 @@
 								"Sir Leye"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Sir Amik Varze",
+							"cards": [
+								"Sir Amik Varze"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Sir Tiffy Cashien",
+							"cards": [
+								"Sir Tiffy Cashien"
+							],
+							"type": "npc"
 						}
 					]
 				}
