@@ -10157,7 +10157,6 @@
 							],
 							"type": "item"
 						},
-						,
 						{
 							"label": "Plank",
 							"cards": [
@@ -14974,6 +14973,74 @@
 								"Giant lobster"
 							],
 							"type": "enemy"
+						},
+						{
+							"label": "Captain Jack",
+							"cards": [
+								"Captain Jack"
+							],
+							"type": "enemy"
+						},
+						{
+							"label": "Captain Ruban Acer",
+							"cards": [
+								"Captain Ruban Acer"
+							],
+							"type": "enemy"
+						},
+						{
+							"label": "Bloody Jack",
+							"cards": [
+								"Bloody Jack"
+							],
+							"type": "enemy"
+						},
+						{
+							"label": "Mister U.",
+							"cards": [
+								"Mister U."
+							],
+							"type": "enemy"
+						},
+						{
+							"label": "Old Jack",
+							"cards": [
+								"Old Jack"
+							],
+							"type": "enemy"
+						},
+						{
+							"label": "Mute Jack",
+							"cards": [
+								"Mute Jack"
+							],
+							"type": "enemy"
+						},
+						{
+							"label": "Oaky Doak",
+							"cards": [
+								"Oaky Doak"
+							],
+							"type": "enemy"
+						},
+						{
+							"label": "Boatswain Bill Teak",
+							"cards": [
+								"Boatswain Bill Teak"
+							],
+							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Floopa",
+							"cards": [
+								"Floopa"
+							],
+							"type": "npc"
 						}
 					]
 				}
