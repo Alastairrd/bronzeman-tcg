@@ -9664,6 +9664,20 @@
 							"type": "item"
 						},
 						{
+							"label": "Knife",
+							"cards": [
+								"Knife"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Bread",
+							"cards": [
+								"Bread"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Needle (Costume needle does not work)",
 							"cards": [
 								"Needle"
@@ -9681,6 +9695,13 @@
 							"label": "Raw cod",
 							"cards": [
 								"Raw cod"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Diving apparatus",
+							"cards": [
+								"Diving apparatus"
 							],
 							"type": "item"
 						}
@@ -9702,6 +9723,18 @@
 								"Crab"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Pirate Pete",
+							"cards": [
+								"Pirate Pete"
+							],
+							"type": "npc"
 						}
 					]
 				}
