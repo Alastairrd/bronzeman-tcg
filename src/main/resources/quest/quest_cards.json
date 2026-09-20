@@ -9461,14 +9461,37 @@
 								"Coins"
 							],
 							"type": "item"
+						}
+					]
+				},
+				{
+					"label": "Enemies",
+					"requirements": [
+						{
+							"label": "Rat",
+							"cards": [
+								"Rat"
+							],
+							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Gertrude",
+							"cards": [
+								"Gertrude"
+							],
+							"type": "npc"
 						},
 						{
-							"label": "Rat poison materials (if making)",
+							"label": "Jimmy Dazzler",
 							"cards": [
-								"Vial",
-								"Red spiders' eggs",
-								"Kwuarm"
-							]
+								"Jimmy Dazzler"
+							],
+							"type": "npc"
 						}
 					]
 				}
