@@ -9052,6 +9052,18 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Fortunato",
+							"cards": [
+								"Fortunato"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
