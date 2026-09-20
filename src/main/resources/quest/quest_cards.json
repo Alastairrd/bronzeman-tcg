@@ -10039,19 +10039,19 @@
 								"Pot of cream"
 							],
 							"type": "item"
-						}
-					]
-				},
-				{
-					"label": "Enemies",
-					"requirements": [
+						},
 						{
 							"label": "Pestle and mortar",
 							"cards": [
 								"Pestle and mortar"
 							],
 							"type": "item"
-						},
+						}
+					]
+				},
+				{
+					"label": "Enemies",
+					"requirements": [
 						{
 							"label": "Evil Chicken",
 							"cards": [
@@ -10065,6 +10065,25 @@
 								"Black dragon"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Sir Amik Varze",
+							"cards": [
+								"Sir Amik Varze"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Wise Old Man",
+							"cards": [
+								"Wise Old Man"
+							],
+							"type": "npc"
 						}
 					]
 				}
