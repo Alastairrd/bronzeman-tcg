@@ -10115,13 +10115,30 @@
 									"type": "item"
 								}
 							]
-						},
+						}						
+					]
+				},
+				{
+					"label": "Enemies",
+					"requirements": [
 						{
 							"label": "Jubbly bird",
 							"cards": [
 								"Jubbly bird"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Rantz",
+							"cards": [
+								"Rantz"
+							],
+							"type": "npc"
 						}
 					]
 				}
