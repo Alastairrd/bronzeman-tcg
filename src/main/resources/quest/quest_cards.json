@@ -9824,6 +9824,18 @@
 							"type": "item"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Evil Dave",
+							"cards": [
+								"Evil Dave"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
