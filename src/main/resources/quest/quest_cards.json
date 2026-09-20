@@ -9498,7 +9498,7 @@
 							"type": "item"
 						},
 						{
-							"label": "Fruit blast (not premade)",
+							"label": "Fruit blast",
 							"cards": [
 								"Fruit blast"
 							],
@@ -9551,17 +9551,20 @@
 								"Asgarnian ale"
 							],
 							"type": "item"
-						}
-					]
-				},
-				{
-					"label": "Enemies",
-					"requirements": [
+						},
 						{
-							"label": "Icefiend - For Rock Cake",
+							"label": "Bucket of milk",
 							"cards": [
-								"Icefiend"
-							]
+								"Bucket of milk"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Pot of flour",
+							"cards": [
+								"Pot of flour"
+							],
+							"type": "item"
 						}
 					]
 				}
