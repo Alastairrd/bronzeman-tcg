@@ -9118,7 +9118,7 @@
 							"type": "item"
 						},
 						{
-							"label": "Mirror shield",
+							"label": "Mirror shield (optional)",
 							"cards": [
 								"Mirror shield"
 							],
@@ -9334,7 +9334,8 @@
 								"Stick",
 								"Thrower troll",
 								"Troll general",
-								"Twig"
+								"Twig",
+								"The rocks"
 							],
 							"type": "enemy"
 						},
@@ -9392,6 +9393,18 @@
 								"Zombie swab"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Fortunato",
+							"cards": [
+								"Fortunato"
+							],
+							"type": "npc"
 						}
 					]
 				}
