@@ -10127,6 +10127,13 @@
 								"Jubbly bird"
 							],
 							"type": "enemy"
+						},
+						{
+							"label": "Chompy bird (if getting your own)",
+							"cards": [
+								"Chompy bird"
+							],
+							"type": "enemy"
 						}
 					]
 				},
