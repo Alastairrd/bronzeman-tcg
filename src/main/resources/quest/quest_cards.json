@@ -9868,19 +9868,73 @@
 								"Rope"
 							],
 							"type": "item"
+						},
+						{
+							"label": "M'speak amulet",
+							"cards": [
+								"M'speak amulet"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Monkey nuts",
+							"cards": [
+								"Monkey nuts"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Pestle and morater",
+							"cards": [
+								"Pestle and mortar"
+							],
+							"type": "item"
+						},
+						{
+							"label": "A knife or slash weapon",
+							"logic": "ANY",
+							"children": [
+								{
+									"label": "Knife",
+									"cards": [
+										"Knife"
+									],
+									"type": "item"
+								},
+								{
+									"label": "Slash weapon",
+									"cards": [
+										"Dragon scimitar",
+										"Rune scimitar",
+										"Adamant scimitar",
+										"Mithril scimitar",
+										"Steel scimitar",
+										"Iron scimitar",
+										"Bronze scimitar",
+										"Dragon longsword",
+										"Rune longsword",
+										"Adamant longsword",
+										"Mithril longsword",
+										"Steel longsword",
+										"Iron longsword",
+										"Bronze longsword",
+										"Bronze sword",
+										"Iron sword",
+										"Steel sword",
+										"Mithril sword",
+										"Adamant sword",
+										"Rune sword",
+										"Dragon sword"
+									],
+									"type": "item"
+								}
+							]
 						}
 					]
 				},
 				{
 					"label": "Enemies",
 					"requirements": [
-						{
-							"label": "Pestle and mortar",
-							"cards": [
-								"Pestle and mortar"
-							],
-							"type": "item"
-						},
 						{
 							"label": "Big Snake",
 							"cards": [
@@ -9908,6 +9962,18 @@
 								"Monkey Zombie"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Awowogei",
+							"cards": [
+								"Awowogei"
+							],
+							"type": "npc"
 						}
 					]
 				}
