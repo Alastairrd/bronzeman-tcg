@@ -9585,7 +9585,8 @@
 								"Blue dye",
 								"Green dye",
 								"Purple dye"
-							]
+							],
+							"type": "item"
 						},
 						{
 							"label": "Bucket of water",
@@ -9595,7 +9596,7 @@
 							"type": "item"
 						},
 						{
-							"label": "Orange",
+							"label": "Orange slices",
 							"cards": [
 								"Orange"
 							],
@@ -9622,13 +9623,18 @@
 								"Bread"
 							],
 							"type": "item"
-						},
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
 						{
-							"label": "Knife",
+							"label": "Goblin generals",
 							"cards": [
-								"Knife"
+								"Goblin generals"
 							],
-							"type": "item"
+							"type": "npc"
 						}
 					]
 				}
