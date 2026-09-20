@@ -9778,6 +9778,25 @@
 							"type": "item"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Lumbridge Guide",
+							"cards": [
+								"Lumbridge Guide"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Wizard Traiborn",
+							"cards": [
+								"Wizard Traiborn"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
