@@ -181,13 +181,6 @@
 							"type": "enemy"
 						},
 						{
-							"label": "Araxyte",
-							"cards": [
-								"Araxyte"
-							],
-							"type": "enemy"
-						},
-						{
 							"label": "Hespori",
 							"cards": [
 								"Hespori"
@@ -270,6 +263,18 @@
 								"Nylocas Athanatos"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Nature Spirit",
+							"cards": [
+								"Nature Spirit"
+							],
+							"type": "npc"
 						}
 					]
 				}
