@@ -8579,6 +8579,34 @@
 								"Pestle and mortar"
 							],
 							"type": "item"
+						},
+						{
+							"label": "Hammer",
+							"cards": [
+								"Hammer"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Saw",
+							"cards": [
+								"Saw"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Water Talisman",
+							"cards": [
+								"Water Talisman"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Earth Talisman",
+							"cards": [
+								"Earth Talisman"
+							],
+							"type": "item"
 						}
 					]
 				},
@@ -8612,6 +8640,18 @@
 								"Eclipse Moon"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Eyatlalli",
+							"cards": [
+								"Eyatlalli"
+							],
+							"type": "npc"
 						}
 					]
 				}
