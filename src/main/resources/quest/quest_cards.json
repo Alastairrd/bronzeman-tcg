@@ -8298,6 +8298,18 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Observatory professor",
+							"cards": [
+								"Observatory professor"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
