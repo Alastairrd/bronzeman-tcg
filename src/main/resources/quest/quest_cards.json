@@ -8700,6 +8700,13 @@
 							"type": "item"
 						},
 						{
+							"label": "Dwellberries",
+							"cards": [
+								"Dwellberries"
+							],
+							"type": "item"
+						},
+						{
 							"label": "Hangover cure materials",
 							"logic": "ALL",
 							"children": [
@@ -8732,6 +8739,25 @@
 									"type": "item"
 								}
 							]
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Mourner",
+							"cards": [
+								"Mourner"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Elena",
+							"cards": [
+								"Elena"
+							],
+							"type": "npc"
 						}
 					]
 				}
