@@ -15301,6 +15301,25 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "King Bolren",
+							"cards": [
+								"King Bolren"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Hazelmere",
+							"cards": [
+								"Hazelmere"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
