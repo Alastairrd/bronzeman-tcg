@@ -8515,6 +8515,39 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Fred the Farmer",
+							"cards": [
+								"Fred the Farmer"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Horvik",
+							"cards": [
+								"Horvik"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Sanfew",
+							"cards": [
+								"Sanfew"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Rantz",
+							"cards": [
+								"Rantz"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
