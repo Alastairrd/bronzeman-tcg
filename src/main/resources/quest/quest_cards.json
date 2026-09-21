@@ -343,6 +343,18 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Spria",
+							"cards": [
+								"Spria"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
