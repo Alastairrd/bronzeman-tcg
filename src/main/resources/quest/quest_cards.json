@@ -15211,6 +15211,18 @@
 							"type": "item"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Lady Shauna Piscarilius",
+							"cards": [
+								"Lady Shauna Piscarilius"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
