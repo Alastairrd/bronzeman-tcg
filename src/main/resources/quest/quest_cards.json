@@ -8244,6 +8244,20 @@
 								"Silver sickle"
 							],
 							"type": "item"
+						},
+						{
+							"label": "Ghostspeak amulet",
+							"cards": [
+								"Ghostspeak amulet"
+							],
+							"type": "item"
+						},
+						{
+							"label": "Mort myre fungus",
+							"cards": [
+								"Mort myre fungus"
+							],
+							"type": "item"
 						}
 					]
 				},
@@ -8256,6 +8270,25 @@
 								"Ghast"
 							],
 							"type": "enemy"
+						}
+					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "Drezel",
+							"cards": [
+								"Drezel"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Nature Spirit",
+							"cards": [
+								"Nature Spirit"
+							],
+							"type": "npc"
 						}
 					]
 				}
