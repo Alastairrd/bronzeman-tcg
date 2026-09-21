@@ -8768,6 +8768,25 @@
 							"type": "enemy"
 						}
 					]
+				},
+				{
+					"label": "NPCs",
+					"requirements": [
+						{
+							"label": "King Roald",
+							"cards": [
+								"King Roald"
+							],
+							"type": "npc"
+						},
+						{
+							"label": "Drezel",
+							"cards": [
+								"Drezel"
+							],
+							"type": "npc"
+						}
+					]
 				}
 			],
 			"notes": ""
